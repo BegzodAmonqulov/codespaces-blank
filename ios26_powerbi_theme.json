@@ -1,0 +1,31 @@
+{
+  "name": "iOS26 Inspired Theme",
+  "dataColors": [
+    "#007AFF", "#34C759", "#FF9500", "#AF52DE",
+    "#FF3B30", "#30B0C7", "#FFCC00", "#8E8E93"
+  ],
+  "background": "#F2F2F7",
+  "foreground": "#1C1C1E",
+  "tableAccent": "#007AFF",
+  "visualStyles": {
+    "*": {
+      "general": [
+        {
+          "background": [{"solid": {"color": "#FFFFFFCC"}}],
+          "transparency": 0
+        }
+      ],
+      "titleText": [
+
+        {"color": {"solid": {"color": "#1C1C1E"}}},
+        {"fontSize": 20},
+        {"fontFamily": "Segoe UI"}
+      ],
+      "headerText": [
+        {"color": {"solid": {"color": "#8E8E93"}}},
+        {"fontSize": 12},
+        {"fontFamily": "Segoe UI"}
+      ]
+    }
+  }
+}
